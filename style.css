@@ -57,6 +57,7 @@ td {
 .print {
   color: rgb(4, 79, 241);
   padding: 10px 20px;
+  margin-bottom: 50px;
   border-radius: 20px;
   background-color: rgb(202, 156, 38);
 }
