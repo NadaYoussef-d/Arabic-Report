@@ -1,7 +1,7 @@
 .report-container {
   margin: 1rem;
 }
-.img-container {
+.left-content-container {
   display: flex;
   justify-content: flex-end;
   margin-left: 9rem;
@@ -49,4 +49,14 @@ td {
 }
 .report-signature {
   margin: 100px 10px;
+}
+.cell-center-data {
+  padding-right: 30px;
+  font-size: large;
+}
+.print {
+  color: rgb(4, 79, 241);
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: rgb(202, 156, 38);
 }
