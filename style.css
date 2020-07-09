@@ -17,11 +17,14 @@
   direction: row;
 }
 .report-center-data {
-  margin: auto;
+  /* margin: auto; */
+  margin-right: 450px;
+  /* margin-left: 120px; */
 }
 .report-title {
   display: flex;
   justify-content: center;
+  margin: 20px;
 }
 .main-table-container {
   margin: 0 auto;
