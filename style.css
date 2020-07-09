@@ -10,7 +10,6 @@
   display: block;
   border-width: 2px;
   border-color: rgb(62, 95, 153);
-  /* width: 90%; */
 }
 .text-container {
   display: flex;
