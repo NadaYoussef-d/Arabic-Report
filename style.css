@@ -51,7 +51,7 @@ td {
   background-color: rgb(129, 139, 150);
 }
 .report-signature {
-  margin: 100px 10px;
+  margin: 100px 10px 50px;
 }
 .cell-center-data {
   padding-right: 30px;
@@ -60,6 +60,7 @@ td {
 .print {
   color: rgb(4, 79, 241);
   padding: 10px 20px;
+  font-size: medium;
   margin-bottom: 50px;
   border-radius: 20px;
   background-color: rgb(212, 178, 90);
