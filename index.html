@@ -7,7 +7,7 @@
     <title>تقرير</title>
   </head>
   <body>
-    <div class="report-container">
+    <div id="report-container">
       <!-- upper hearer -->
       <div>
         <img src="logo0.jpeg" alt="image" />
@@ -662,7 +662,7 @@
       <!-- footer -->
       <h5 class="report-signature">مسئول الخزينة</h5>
       <div class="left-content-container">
-        <button class="print">
+        <button class="print" onclick="PrintReceipt()">
           <b>
             Print
           </b>
@@ -670,4 +670,9 @@
       </div>
     </div>
   </body>
+  <script
+    src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+    type="text/javascript"
+  ></script>
+  <script src="index.js"></script>
 </html>

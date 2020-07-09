@@ -1,4 +1,4 @@
-.report-container {
+#report-container {
   margin: 1rem;
 }
 .left-content-container {
@@ -64,4 +64,5 @@ td {
   margin-bottom: 50px;
   border-radius: 20px;
   background-color: rgb(212, 178, 90);
+  cursor: pointer;
 }
